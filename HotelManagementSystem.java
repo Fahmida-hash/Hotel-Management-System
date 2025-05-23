@@ -1,8 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
-// HotelManagementSystem.java
+
 package hotelmanagementsystem;
 import java.util.*;
 // Main class implementing the HotelInterface
