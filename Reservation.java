@@ -1,13 +1,7 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package hotelmanagementsystem;
 import java.util.*;
-/**
- *
- * @author Digital Outlet
- */
+
 public class Reservation {
     private Customer customer;
     private Room room;
